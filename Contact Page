@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,100' rel='stylesheet' type='text/css'>
+<link href="Style.css" type="text/css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="nav">
+      <div class="container">
+        <ul>
+          <li><a href="skeleton.html">Home</a></li>
+          <li><a href="skeleton.html">About Me</a></li>
+          <li><a href="skeleton.html">Resume</a></li>
+          <li><a href="skeleton.html">Projects</a></li>
+          <li><a href="skeleton.html">Contact Me</a></li>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>
